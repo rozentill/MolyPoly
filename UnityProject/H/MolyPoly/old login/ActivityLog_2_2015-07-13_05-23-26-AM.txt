@@ -1,0 +1,4 @@
+{"timestamp":"2015-07-13_05-23-26-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_05-23-26-AM","event":"menu_select_lesson","user":2,"data":"free style"}
+{"timestamp":"2015-07-13_05-23-26-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-13_05-23-31-AM","event":"There should be 2 Carbon atoms.\nThere should be 6 Hydrogen atoms.","user":2}

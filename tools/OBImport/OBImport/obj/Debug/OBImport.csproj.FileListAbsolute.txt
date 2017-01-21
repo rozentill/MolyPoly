@@ -1,0 +1,7 @@
+G:\Code\OBConverterC#\OBImport\OBImport\bin\Debug\OBImport.exe.config
+G:\Code\OBConverterC#\OBImport\OBImport\bin\Debug\OBImport.exe
+G:\Code\OBConverterC#\OBImport\OBImport\bin\Debug\OBImport.pdb
+G:\Code\OBConverterC#\OBImport\OBImport\bin\Debug\OBDotNet.dll
+G:\Code\OBConverterC#\OBImport\OBImport\obj\Debug\OBImport.csprojResolveAssemblyReference.cache
+G:\Code\OBConverterC#\OBImport\OBImport\obj\Debug\OBImport.exe
+G:\Code\OBConverterC#\OBImport\OBImport\obj\Debug\OBImport.pdb

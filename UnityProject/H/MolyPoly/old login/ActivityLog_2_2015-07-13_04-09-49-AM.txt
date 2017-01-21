@@ -1,0 +1,5 @@
+{"timestamp":"2015-07-13_04-09-51-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_04-10-10-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_04-10-16-AM","event":"menu_select_lesson","user":2,"data":"ethane"}
+{"timestamp":"2015-07-13_04-10-16-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-13_04-10-17-AM","event":"There should be 2 Carbon atoms.\nThere should be 6 Hydrogen atoms.","user":2}

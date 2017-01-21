@@ -1,0 +1,4 @@
+{"timestamp":"2015-07-11_09-06-52-AM","event":"menu_select_lesson","user":2,"data":"2-methylpentan-3-one"}
+{"timestamp":"2015-07-11_09-06-52-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-11_09-06-54-AM","event":"Molecule Checked","user":2}
+{"timestamp":"2015-07-11_09-06-54-AM","event":"There should be 6 Carbon atoms.\nThere should be 12 Hydrogen atoms.\nThere should be 1 Oxygen atoms.","user":2}

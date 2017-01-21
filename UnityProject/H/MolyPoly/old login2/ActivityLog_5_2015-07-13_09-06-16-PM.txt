@@ -1,0 +1,4 @@
+{"timestamp":"2015-07-13_09-06-16-PM","event":"log_in","user":5}
+{"timestamp":"2015-07-13_09-06-18-PM","event":"menu_select_module","user":5,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_09-06-18-PM","event":"menu_select_lesson","user":5,"data":"free style"}
+{"timestamp":"2015-07-13_09-06-18-PM","event":"model_add_atom","user":5,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}

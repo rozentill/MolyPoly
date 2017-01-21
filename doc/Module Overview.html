@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<title>export of TreeSheets file G:\Code\MolyPoly2\Architecture.cts</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<td style="">
+  <table border=1 cellspacing=0 cellpadding=3 style="font-size: 11pt;">
+  <tr valign=top>
+  <td style="background-color: #FFFFFF;">Quick Module Set
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Each module should only reference modules in the layer(s) above (left). Layer 0 deals with the operating system.
+    </td>
+    </tr>
+    </table>
+  </td>
+  <td style="background-color: #FFFFFF;">
+  </td>
+  <td style="background-color: #FFFFFF;">
+  </td>
+  </tr>
+  <tr valign=top>
+  <td style="background-color: #FFFFFF;">Layer 0
+  </td>
+  <td style="background-color: #FFFFFF;">Layer 1
+  </td>
+  <td style="background-color: #FFFFFF;">Layer 2
+  </td>
+  </tr>
+  <tr valign=top>
+  <td style="background-color: #404040;color: #FFFFFF;">.NET Libraries (Unity Subset)
+  </td>
+  <td style="background-color: #FFFFFF;">Logging
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">Transparently (without user interaction) pushes arbitrary logs to be remotely collated on an opportunistic basis. 
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Push event onto buffer
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Write buffer to disk
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Push log to remote location
+    </td>
+    </tr>
+    </table>
+  </td>
+  <td style="background-color: #FFFFFF;">State Machine Controller
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">Orchestrates the program lifetime; constructs modules in the correct order and injects dependencies; initiates first state machine; performs cleanup and log push at program exit (or periodically).
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">The top level controller can also perform debugging checks, such as checking for consistency between the domain model and the component heirachy.
+    </td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+  <tr valign=top>
+  <td style="background-color: #404040;color: #FFFFFF;">Unity SDK
+  </td>
+  <td style="background-color: #FFFFFF;">Session
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">Retrives the users session (progress through lessons, personal settings) from disk or from a remote source (via http) using an ID code.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Login / Load
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Logout / Save
+    </td>
+    </tr>
+    </table>
+  </td>
+  <td style="background-color: #FFFFFF;">Program Controllers
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">Each controller forms a node in the state diagram of the program (yet to be developed.)
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">User input code belongs in this module, as user input causes context dependent program behaviour.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Each frame, the controller must maintain the mapping between the domain model and the unity component heirachy, so the user sees a correct and bug free representation of the program state.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">In order to maintain this mapping,  the controller instantiates, destroys and mutates unitycomponents, and operates on the abstract domain model.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">At the end of the frame, the controller must nominate a controller to handle the subsequent frame. (This can be the same controller)
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Each controller has the responsibility to maintain the program in a correct state and to only nominate a controller that will be able to handle the current state at the beginning of the next frame.
+    </td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+  <tr valign=top>
+  <td style="background-color: #404040;color: #FFFFFF;">Leapmotion SDK
+  </td>
+  <td style="background-color: #FFFFFF;">Unity Components
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">A collection of independent MonoBehaviour classes that can be composed to represent the current domain model to the user.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">3D scene objects
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">2D GUI objects &amp; Menus
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Sound effects
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Input controller mapping to scene objects
+    </td>
+    </tr>
+    </table>
+  </td>
+  <td style="background-color: #FFFFFF;">
+  </td>
+  </tr>
+  <tr valign=top>
+  <td style="background-color: #404040;color: #FFFFFF;">OpenBabel
+  </td>
+  <td style="background-color: #FFFFFF;">Domain Model
+    <table border=1 cellspacing=0 cellpadding=3 style="font-size: 10pt;">
+    <tr valign=top>
+    <td style="background-color: #C0FFFF;">Encapsulates all program state as immutable datatypes and functions to create the next program state.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">History of previous states enables undo.
+    </td>
+    </tr>
+    <tr valign=top>
+    <td style="background-color: #FFFFFF;">Conversion to wire format or "Serialise / Deserialise" (To support save / load) (possibilities are XML or Cap'n'proto)
+    </td>
+    </tr>
+    </table>
+  </td>
+  <td style="background-color: #FFFFFF;">
+  </td>
+  </tr>
+  </table>
+</td>
+</body>
+</html>

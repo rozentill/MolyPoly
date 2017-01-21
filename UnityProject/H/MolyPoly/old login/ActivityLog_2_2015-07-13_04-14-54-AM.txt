@@ -1,0 +1,12 @@
+{"timestamp":"2015-07-13_04-15-01-AM","event":"menu_select_lesson","user":2,"data":"ethane"}
+{"timestamp":"2015-07-13_04-15-01-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-13_04-15-02-AM","event":"There should be 2 Carbon atoms.\nThere should be 6 Hydrogen atoms.","user":2}
+{"timestamp":"2015-07-13_04-15-06-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_04-15-13-AM","event":"menu_select_lesson","user":2,"data":"2-methylpropane"}
+{"timestamp":"2015-07-13_04-15-13-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":1}}
+{"timestamp":"2015-07-13_04-15-14-AM","event":"There should be 4 Carbon atoms.\nThere should be 10 Hydrogen atoms.","user":2}
+{"timestamp":"2015-07-13_04-15-15-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_04-15-17-AM","event":"menu_select_lesson","user":2,"data":"2-methylpropane"}
+{"timestamp":"2015-07-13_04-15-17-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":2}}
+{"timestamp":"2015-07-13_04-15-18-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}
+{"timestamp":"2015-07-13_04-15-27-AM","event":"menu_select_module","user":2,"data":"FreeStyle"}

@@ -1,0 +1,7 @@
+{"timestamp":"2015-07-11_08-23-37-AM","event":"log_in","user":2}
+{"timestamp":"2015-07-11_08-23-41-AM","event":"menu_select_lesson","user":2,"data":"propanamide"}
+{"timestamp":"2015-07-11_08-23-41-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-11_08-23-43-AM","event":"Molecule Checked","user":2}
+{"timestamp":"2015-07-11_08-23-43-AM","event":"There should be 3 Carbon atoms.\nThere should be 7 Hydrogen atoms.\nThere should be 2 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":2}
+{"timestamp":"2015-07-11_08-24-06-AM","event":"Molecule Checked","user":2}
+{"timestamp":"2015-07-11_08-24-06-AM","event":"There should be 3 Carbon atoms.\nThere should be 7 Hydrogen atoms.\nThere should be 2 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":2}

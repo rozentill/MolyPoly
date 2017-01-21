@@ -1,0 +1,4 @@
+{"timestamp":"2015-07-13_09-26-50-PM","event":"log_in","user":28}
+{"timestamp":"2015-07-13_09-26-52-PM","event":"menu_select_lesson","user":28,"data":"2-methylpropane"}
+{"timestamp":"2015-07-13_09-26-52-PM","event":"model_add_atom","user":28,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-13_09-26-54-PM","event":"There should be 4 Carbon atoms.\nThere should be 10 Hydrogen atoms.","user":28}

@@ -1,0 +1,14 @@
+{"timestamp":"2016-07-30_05-35-31-PM","event":"menu_select_lesson","user":1,"data":"ethanamide"}
+{"timestamp":"2016-07-30_05-35-31-PM","event":"model_add_atom","user":1,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2016-07-30_05-35-38-PM","event":"There should be 2 Carbon atoms.\nThere should be 5 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-35-46-PM","event":"There should be 2 Carbon atoms.\nThere should be 5 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-35-54-PM","event":"There should be 2 Carbon atoms.\nThere should be 5 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-36-02-PM","event":"There should be 2 Carbon atoms.\nThere should be 5 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-36-06-PM","event":"menu_select_lesson","user":1,"data":"N-methylpropanamide"}
+{"timestamp":"2016-07-30_05-36-06-PM","event":"model_add_atom","user":1,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":1}}
+{"timestamp":"2016-07-30_05-36-07-PM","event":"There should be 4 Carbon atoms.\nThere should be 9 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-36-15-PM","event":"There should be 4 Carbon atoms.\nThere should be 9 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-36-23-PM","event":"menu_select_lesson","user":1,"data":"propanamide"}
+{"timestamp":"2016-07-30_05-36-23-PM","event":"model_add_atom","user":1,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":2}}
+{"timestamp":"2016-07-30_05-36-24-PM","event":"There should be 3 Carbon atoms.\nThere should be 7 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}
+{"timestamp":"2016-07-30_05-36-30-PM","event":"There should be 3 Carbon atoms.\nThere should be 7 Hydrogen atoms.\nThere should be 1 Oxygen atoms.\nThere should be 1 Nitrogen atoms.","user":1}

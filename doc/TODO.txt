@@ -1,0 +1,18 @@
+TODO List
+Updated 09/03/2015
+
+2	Test Portability (@uni, mac)
+3	Backwards transitions:
+3.1		SelectLessonUI -> LoginUI
+4	HTTP Update text files
+5	Logging
+5.1		ZIP to disk
+5.2		HTTP Post upload
+6	OpenBabel
+6.1		Double / Triple Bonds
+6.2		Rendering Bugs
+7	Convert to Animation SM
+8	Upload to SVN
+9	develop 3D interface "grammar"
+
+	

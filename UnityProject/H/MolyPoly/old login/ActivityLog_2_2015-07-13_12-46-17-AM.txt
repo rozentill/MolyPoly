@@ -1,0 +1,3 @@
+{"timestamp":"2015-07-13_12-46-19-AM","event":"menu_select_lesson","user":2,"data":"ethene"}
+{"timestamp":"2015-07-13_12-46-19-AM","event":"model_add_atom","user":2,"data":{"atomicNumber":6,"elementName":"Carbon","atomID":0}}
+{"timestamp":"2015-07-13_12-46-21-AM","event":"There should be 2 Carbon atoms.\nThere should be 4 Hydrogen atoms.","user":2}
